@@ -1,6 +1,6 @@
 В api.php единственный end point
 
-Все необходимое в этом (коммите)[https://github.com/Khrischatyy/job-test/commit/779dc5ab6d7f4effe524027d8ba84eff56739495]
+Все необходимое в этом [коммите](https://github.com/Khrischatyy/job-test/commit/779dc5ab6d7f4effe524027d8ba84eff56739495)
 
 Задание: 
 Имеется система настроек пользователя 
